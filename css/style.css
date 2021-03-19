@@ -1,0 +1,36 @@
+.c_indicators [data-bs-target] {
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+}
+.c_indicators {
+    bottom: 10px !important;
+}
+.c_h5{
+    padding-top:10px;
+    margin: 0;
+    background-color: rgba(0,0,0,.3);
+    font-size: 22px;
+    font-weight: 700;
+    color:whitesmoke;
+}
+.c_p{
+    padding: 15px 0 10px;
+    margin: 0 0 25px;
+    background-color: rgba(0,0,0,.3);
+    font-size: 16px;
+    font-weight: 400;
+    color: whitesmoke;
+}
+.c_next {
+    right: 3% !important;
+    bottom: 1% !important;
+}
+.c_prev {
+    left: 85% !important;
+    bottom: 1% !important;
+}
+.c_prev, .c_next {
+    top: 76% !important;
+    width: 5% !important;
+}
